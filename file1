@@ -3,4 +3,8 @@ date
 pwd
 uname -n
 mkdir sindhu
-
+echo "I love you sindhu"
+date %+x
+date %+R
+apt install mailutils
+today we modified
